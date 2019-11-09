@@ -16,6 +16,11 @@ def show_entry_fields():
 
 def call_back():
     print("You added a term.")
+    
+    
+
+def clicked():
+  messagebox.showinfo('Calculating Severity Score', 'Severity Level = ')    
 
  
 #Making 2 buttons one for quit and one to show
